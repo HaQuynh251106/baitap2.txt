@@ -13,4 +13,6 @@ public class VanPhong extends NhanVien {
     void hienThiThongTin(){
         System.out.println("Nhân viên: " + Hoten + " Năm sinh: " + ngaySinh + " Lương: " + tinhLuong());
     }
+
+
 }
